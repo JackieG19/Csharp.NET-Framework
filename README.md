@@ -29,5 +29,15 @@ separate assemblies. An assembly is a file (DLL or EXE) that contains one or mor
 An EXE file represents a program that can be executed. A DLL is a file that includes code that can be re-used across 
 different programs.
 ___
+The next following Repos:
 
-Next -> [Primitive Types and Expressions](https://github.com/JackieG19/PrimitiveTypes-and-Expressions)
+2. [Primitive Types and Expressions](https://github.com/JackieG19/PrimitiveTypes-and-Expressions)
+3. [Non-Primitive Types](https://github.com/JackieG19/Csharp-NonPrimitive-Types)
+4. [Control Flow](https://github.com/JackieG19/Csharp-Control-Flow)
+5. [Arrays and Lists](https://github.com/JackieG19/Csharp-Arrays-and-Lists)
+6. [Date and Time](https://github.com/JackieG19/Csharp-Date-and-Time)
+7. [Working with Text](https://github.com/JackieG19/Csharp-Working-with-Text)
+8. [Working with Files](https://github.com/JackieG19/Csharp-Working-with-Files)
+9. [Debugging Applications](https://github.com/JackieG19/Csharp-Debugging-Applications)
+___
+**Part 2 of [Fundamentals of C#](https://github.com/JackieG19/Fundamentals-Of-Csharp-Part2)**
